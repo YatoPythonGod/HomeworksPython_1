@@ -13,3 +13,6 @@ def get_quarter(x, y):
 
 
 get_quarter(0, 0)
+get_quarter(0, 1)
+get_quarter(1, 0)
+get_quarter(10, 10)
