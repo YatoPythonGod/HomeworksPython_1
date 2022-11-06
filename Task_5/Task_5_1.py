@@ -42,7 +42,7 @@ def roll(count, player_1='Player 1', player_2='Player 2'):
         roll(count)
 
 
-def candy(opponent='player', bank=2021, step=28):
+def candy(opponent='player', bank=201, step=28):
     if opponent == 'player':
         active = roll(100)
         while bank != 1:

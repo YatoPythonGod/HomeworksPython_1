@@ -47,4 +47,4 @@ def add_polynomials(polynomial_1, polynomial_2):
     return add_polynomial
 
 
-print(add_polynomials('5*x^99 - 7*x^2 + 6', '7*x^2 - 6*x - 3'))
+print(add_polynomials('5*x^3 - 7*x^2 + 6', '7*x^2 - 6*x - 3'))
